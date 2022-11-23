@@ -1,4 +1,4 @@
-# Performance-marketing-Deep-Learning-for-Business-Growth
+# Performance-marketing_|_Deep-Learning-for-Business-Growth
 Performance Marketing Optimisation
 The objective is to understand the influence of text content, image objects and graphics on the Click through rate(CTR) of the Images used in the Marketing Ads campaign and provide recommendations to optimize and maximize CTR.
 
