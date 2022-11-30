@@ -1,7 +1,3 @@
-# Performance-marketing_Deep-Learning-for-Business-Growth-Phase-1
-
-# Performance-marketing_Deep-Learning-for-Business-Growth-Phase-1
-
 PROJECT IN BRIEF: 
 
 I. OBJECTIVE AND SCALABILITY 
